@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "200 - 📁 Files",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000 - 🧠 Zettlekasten",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "legacyEditor": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

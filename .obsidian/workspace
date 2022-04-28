@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "d5aa0270314564cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8fe0c469c666032",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "400 - 🔸 ENDAVA - Internship/01 - Internship Notes/04 - Testing/04 - GIT/001 - GIT Basics.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99137d57ec09bc7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "247fe922b73ad741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "603aca353c030f1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f368234c8337f49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271
+  },
+  "right": {
+    "id": "3c60e35163440c40",
+    "type": "split",
+    "children": [
+      {
+        "id": "53099a3802d7b1a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d9c413a6ee9272",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "400 - 🔸 ENDAVA - Internship/01 - Internship Notes/04 - Testing/04 - GIT/001 - GIT Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f41b9f533db5853",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c0183fa324a0424",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e8fe0c469c666032",
+  "lastOpenFiles": [
+    "400 - 🔸 ENDAVA - Internship/01 - Internship Notes/04 - Testing/04 - GIT/001 - GIT Basics.md",
+    "410 - 🟧 ENDAVA/Courses/Cypress V9 - Automation Testing In Detail (Overview)/Iterating through Elements.md",
+    "000 - 🧠 Zettlekasten/Untitled.md",
+    "000 - 🧠 Zettlekasten/Pull Request.md",
+    "000 - 🧠 Zettlekasten/información.md",
+    "410 - 🟧 ENDAVA/Courses/API Community/01 -  Types of APIs.md",
+    "410 - 🟧 ENDAVA/Courses/English/Untitled.md",
+    "000 - 🧠 Zettlekasten/Untitled 1.md",
+    "000 - 🧠 Zettlekasten/Untitled 2.md",
+    "000 - 🧠 Zettlekasten/Untitled 3.md"
+  ]
+}
